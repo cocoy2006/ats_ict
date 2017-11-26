@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Mon Apr 04 20:55:02 CST 2016
+genBasicCompId=true
+sessionFactoryName=ast.molab.main.java.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=true
+reSettingsFile=
+configFile=/ast/src/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=BaseHibernateDAO
